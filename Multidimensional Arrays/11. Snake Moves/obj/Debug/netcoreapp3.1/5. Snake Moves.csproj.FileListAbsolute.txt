@@ -1,0 +1,13 @@
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csprojAssemblyReference.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache

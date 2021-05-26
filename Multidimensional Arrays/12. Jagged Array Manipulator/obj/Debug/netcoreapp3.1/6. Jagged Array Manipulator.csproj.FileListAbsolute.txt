@@ -1,0 +1,13 @@
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.exe
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.deps.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.genruntimeconfig.cache
