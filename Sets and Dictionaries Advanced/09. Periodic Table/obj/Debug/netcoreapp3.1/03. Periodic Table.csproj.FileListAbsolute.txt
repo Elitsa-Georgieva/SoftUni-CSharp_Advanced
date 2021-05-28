@@ -1,0 +1,13 @@
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.exe
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.deps.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csprojAssemblyReference.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Users\Elitsa\source\repos\C# Advanced May 2021\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.genruntimeconfig.cache
